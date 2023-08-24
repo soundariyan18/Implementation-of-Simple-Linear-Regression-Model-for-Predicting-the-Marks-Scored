@@ -84,9 +84,10 @@ df.head()
 
 df.tail()
 
+![MODEL](https://github.com/soundariyan18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202023-08-24%20221502.png)
+
+Array values of x
+
 ![MODEL]()
-
-
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
