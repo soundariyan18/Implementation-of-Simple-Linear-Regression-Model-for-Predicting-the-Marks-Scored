@@ -108,10 +108,11 @@ Training Set Graph
 
 Test Set Graph
 
+![MODEL](https://github.com/soundariyan18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202023-08-24%20221830.png)
+
+Values of MSE, MAE and RMSE
+
 ![MODEL]()
-9. Values of MSE, MAE and RMSE
-
-
 
 
 
