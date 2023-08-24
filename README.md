@@ -92,11 +92,11 @@ Array values of x
 
 Array value of Y
 
+![MODEL](https://github.com/soundariyan18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202023-08-24%20221600.png)
+
+Values of Y prediction
+
 ![MODEL]()
-
-
-
-
 
 
 5. Values of Y prediction
