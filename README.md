@@ -88,6 +88,27 @@ df.tail()
 
 Array values of x
 
+![MODEL](https://github.com/soundariyan18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202023-08-24%20221529.png)
+
+Array value of Y
+
 ![MODEL]()
+
+
+
+
+
+
+5. Values of Y prediction
+6. Array values of Y test
+7. Training Set Graph
+8. Test Set Graph
+9. Values of MSE, MAE and RMSE
+
+
+
+
+
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
