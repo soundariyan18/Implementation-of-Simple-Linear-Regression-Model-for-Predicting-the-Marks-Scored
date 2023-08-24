@@ -100,8 +100,11 @@ Values of Y prediction
 
 Array values of Y test
 
+![MODEL](https://github.com/soundariyan18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202023-08-24%20221741.png)
+
+Training Set Graph
+
 ![MODEL]()
-7. Training Set Graph
 8. Test Set Graph
 9. Values of MSE, MAE and RMSE
 
