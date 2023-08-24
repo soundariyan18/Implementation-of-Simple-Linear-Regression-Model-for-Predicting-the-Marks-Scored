@@ -112,7 +112,7 @@ Test Set Graph
 
 Values of MSE, MAE and RMSE
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202023-08-24%20221849.png)
 
 
 
